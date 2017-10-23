@@ -8,4 +8,9 @@ NCX2
 XZ82
 >>>>>>> Stashed changes
 
+<<<<<<< .merge_file_SywKFr
 色々
+=======
+
+ちょい修正
+>>>>>>> .merge_file_toOPJC
