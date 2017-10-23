@@ -7,3 +7,5 @@ NCX2
 35HR
 XZ82
 >>>>>>> Stashed changes
+
+色々
