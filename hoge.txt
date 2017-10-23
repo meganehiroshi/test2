@@ -1,3 +1,9 @@
 aiueo!
 あああ
+<<<<<<< Updated upstream
 github場でコミット
+=======
+NCX2
+35HR
+XZ82
+>>>>>>> Stashed changes
