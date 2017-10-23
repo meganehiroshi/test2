@@ -6,16 +6,9 @@ github場でコミット
 NCX2
 35HR
 XZ82
->>>>>>> Stashed changes
 
-<<<<<<< .merge_file_SywKFr
 色々
-=======
 
 ちょい修正
-<<<<<<< .merge_file_2Y7rmu
->>>>>>> .merge_file_toOPJC
-=======
 なんちゃら
 ３回目
->>>>>>> .merge_file_7IoLL3
