@@ -13,4 +13,9 @@ XZ82
 =======
 
 ちょい修正
+<<<<<<< .merge_file_2Y7rmu
 >>>>>>> .merge_file_toOPJC
+=======
+なんちゃら
+３回目
+>>>>>>> .merge_file_7IoLL3
